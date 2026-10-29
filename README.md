@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b396e862-2d6d-49bb-9ac3-a63518e516e8" /># Hi there, I'm Shaurya! 👋
 
 I'm a 2nd-year Computer Science and Engineering undergrad at **NIT Trichy** and a developer at **DeltaForce** (the campus web development and systems team). I take a first-principles approach to software engineering—whether that means building 2D game physics engines from scratch in vanilla JavaScript, exploring digital systems design, or writing custom shell scripts to streamline my Linux workflow. 
 
